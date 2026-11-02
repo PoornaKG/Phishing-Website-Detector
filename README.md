@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phishing Website Detector — Streamlit
 
 ## Files
@@ -18,3 +19,7 @@
 - Some features cannot be reliably determined without WHOIS or richer page analysis, so the app uses neutral values for some of them.
 - Confirm the model's class labels from your training dataset. The sidebar defaults to class `-1` = phishing and class `1` = legitimate, a common convention for this dataset family.
 - A prediction is not a security guarantee. Avoid entering credentials on suspicious sites.
+=======
+# Phishing-Website-Detector
+A machine learning-based phishing website detection application built with Python and Streamlit.
+>>>>>>> f323e4c5eea4e4c947597c6d0606f63f2b81ff54
